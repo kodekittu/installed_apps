@@ -6,11 +6,11 @@ Flutter App for getting all installed in your device.
 
 This project is a starting point for a Flutter application.
 
-![](assets/firstpg.jpeg)
-
-#
-
 ![](assets/sendpg.jpeg)
+
+##
+
+![](assets/firstpg.jpeg =250x250)
 
 A few resources to get you started if this is your first Flutter project:
 
