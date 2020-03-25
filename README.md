@@ -1,10 +1,13 @@
-# paynav2
+# Installed APPS
 
-A new Flutter application.
+Flutter App for getting all installed in your device.
 
-## Getting Started
+## An Overview
 
 This project is a starting point for a Flutter application.
+
+![](assets/robot.png)
+
 
 A few resources to get you started if this is your first Flutter project:
 
