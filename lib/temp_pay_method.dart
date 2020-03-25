@@ -71,6 +71,7 @@ class _MyAppState extends State<TempPayMethod> {
       getApps();
 
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.lightGreenAccent,
