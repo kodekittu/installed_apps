@@ -11,6 +11,7 @@ class TempPayMethod extends StatefulWidget {
 
 class _MyAppState extends State<TempPayMethod> {
 
+
   List<Map<String, String>> appList=[];
   List<Map<String, String>> installedApps;
   List<Map<String, String>> iOSApps = [
